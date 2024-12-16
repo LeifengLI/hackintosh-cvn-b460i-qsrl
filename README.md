@@ -4,7 +4,7 @@
 CPU:10400t es 代号qsrl
 GPU:uhd630
 RAM:酷兽 16G
-Motherboard/Laptop Make and Model:七彩虹cvn-b460i wifi 版
+Motherboard:七彩虹cvn-b460i wifi 版
 Audio Codec:
 Ethernet Card:千兆 RTL8111
 OC：1.0.2
